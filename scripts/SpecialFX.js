@@ -99,4 +99,3 @@ function castFire(count, radius, delta, h){
   return fireSystem;
 
 }
-
